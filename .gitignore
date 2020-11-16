@@ -1,0 +1,10 @@
+resources/prefixes.json
+resources/servers.json
+
+.env
+__pycache__
+start.bat
+reboot.json
+
+/.idea/
+/tests/*
